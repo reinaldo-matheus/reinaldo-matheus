@@ -12,10 +12,13 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="SASS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="Java" height="30" width="40" src="https://github.com/user-attachments/assets/1e4dc262-3175-4054-bff7-1ea9f449f5bc">
+  <img align="center" alt="Node.JS" height="30" widht="40" src="https://github.com/user-attachments/assets/c92f9ed7-cc95-4587-9fc5-3decfa9242d3">
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
- 
+
+
 <br>
  
 ### Minhas redes sociais: ...
