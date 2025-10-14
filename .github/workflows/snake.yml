@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake Animation 🐍
 
 on:
   schedule:
@@ -8,34 +8,32 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write  
+
 jobs:
   build:
+    name: Gerar e publicar a cobrinha
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+      - name: 🔄 Checkout do repositório
+        uses: actions/checkout@v4
 
-      - name: Gerar animação da cobrinha
+      - name: 🐍 Gerar animação da cobrinha
         uses: Platane/snk@v3
         with:
           github_user_name: reinaldo-matheus
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Commit e push da animação
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: GitHub Actions
-          author_email: actions@github.com
-          message: "🐍 Atualização automática da cobrinha"
-          add: "dist/github-contribution-grid-snake.svg"
-
-      - name: Publicar no branch output
+      - name: 🚀 Publicar arquivo no branch output
         run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin
-          git switch --orphan output
+          git checkout --orphan output
           git reset
           mv dist/github-contribution-grid-snake.svg .
           git add github-contribution-grid-snake.svg
           git commit -m "🐍 Atualização automática da cobrinha"
-          git push -f origin output
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/reinaldo-matheus/reinaldo-matheus.git output
