@@ -59,7 +59,5 @@ Acredito que tecnologia é bem mais do que apenas linhas de código,  trata-se d
 
 ---
 
-### 🐍 Minhas contribuições animadas
-
 ![Snake animation](https://raw.githubusercontent.com/reinaldo-matheus/reinaldo-matheus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/reinaldo-matheus/reinaldo-matheus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
