@@ -4,7 +4,7 @@
 
 </div>
 
----
+
 
 Sou um Desenvolvedor Full Stack Jr. em constante evolução.  
 Atualmente, foco em aprimorar minhas habilidades em **JavaScript, TypeScript, React, Node.js e Next.js**,  
