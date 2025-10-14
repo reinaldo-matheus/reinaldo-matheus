@@ -6,8 +6,6 @@
 
 ---
 
-## 👨🏾‍💻 Sobre mim
-
 Sou um Desenvolvedor Full Stack Jr. em constante evolução.  
 Atualmente, foco em aprimorar minhas habilidades em **JavaScript, TypeScript, React, Node.js e Next.js**,  
 buscando criar aplicações escaláveis, de alto desempenho e que façam um diferença positiva na vida de seus respectivos usuários.  
@@ -17,8 +15,6 @@ Acredito que tecnologia é bem mais do que apenas linhas de código,  trata-se d
 
 ---
 
-## ⚙️ Estatísticas do GitHub
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinaldo-matheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldo-matheus&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -26,7 +22,7 @@ Acredito que tecnologia é bem mais do que apenas linhas de código,  trata-se d
 
 ---
 
-## 🧠 Tech Stack
+### 🧠 Tech Stack ...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -41,8 +37,7 @@ Acredito que tecnologia é bem mais do que apenas linhas de código,  trata-se d
 </div>
 
 ---
-
-## 🌐 Minhas redes sociais
+ ### 🌐 Minhas redes sociais ...
 
 <div align="center">
 
@@ -56,12 +51,10 @@ Acredito que tecnologia é bem mais do que apenas linhas de código,  trata-se d
 
 ---
 
-## ✨ Curiosidades sobre mim
+### ✨ Algumas Curiosidades sobre minha pessoa  ...
 - 🎯 Focado em evoluir como Desenvolvedor 
 - ☕ Café + código = produtividade máxima  
 - 🧩 Adoro aprender novas tecnologias e padrões de arquitetura  
 - 🏋️‍♂️ Fora do código... gosto de treinar, jogar uma boa partida de PES, e comer uma bela pizza assistindo anime 😅  
 
----
 
-⭐ *Feito com dedicação e com muito ❤️ por mim mesmo, [Matheus Reinaldo](https://github.com/reinaldo-matheus)*  
