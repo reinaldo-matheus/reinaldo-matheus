@@ -1,32 +1,67 @@
-## Bem-vindo(a) ao meu perfil !
+<div align="center">
 
- <div>
-   <a href="https://github.com/reinaldo-matheus">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinaldo-matheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldo-matheus&layout=compact&langs_count=6&theme=tokyonight"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=500&lines=👋+Olá,+me+chamo+Matheus!;💻+Desenvolvedor+Full+Stack+Jr.;🚀+Apaixonado+por+tecnologia!)](https://github.com/reinaldo-matheus)
+
 </div>
-    
+
+---
+
+## 👨🏾‍💻 Sobre mim
+
+Sou um Desenvolvedor Full Stack Jr. em constante evolução.  
+Atualmente, foco em aprimorar minhas habilidades em **JavaScript, TypeScript, React, Node.js e Next.js**,  
+buscando criar aplicações escaláveis, de alto desempenho e que façam um diferença positiva na vida de seus respectivos usuários.  
+
+Acredito que tecnologia é bem mais do que apenas linhas de código,  trata-se de uma forma de **transformar ideias em impacto real**.  
+💡 Gosto de aprender, ensinar e enfrentar novos desafios todos os dias!
+
+---
+
+## ⚙️ Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinaldo-matheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldo-matheus&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 🧠 Tech Stack
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="SASS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-   <img align="center" alt="Java" height="30" width="40" src="https://github.com/user-attachments/assets/1e4dc262-3175-4054-bff7-1ea9f449f5bc">
-  <img align="center" alt="Node.JS" height="30" widht="40" src="https://github.com/user-attachments/assets/c92f9ed7-cc95-4587-9fc5-3decfa9242d3">
-  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+</div>
+
+---
+
+## 🌐 Minhas redes sociais
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/matheusreinaldo_04465)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-reinaldo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reinaldomatheus__)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://developerporfolio.vercel.app/](https://my-fullstack-portfolio-e0ltovb5x-matheus-projects-31eaab83.vercel.app/))
+
 </div>
 
 
-<br>
- 
-### Minhas redes sociais: ...
- 
-<div> 
- <a href="https://discord.gg/matheusreinaldo_04465" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/matheus-reinaldo
-" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"" target="_blank"></a>
-  <a href="https://www.instagram.com/in/reinaldomatheus__
-" target="_blank"><img src="https://img.shields.io/badge/-Instagram-d43245?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+---
+
+## ✨ Curiosidades sobre mim
+- 🎯 Focado em evoluir como Desenvolvedor 
+- ☕ Café + código = produtividade máxima  
+- 🧩 Adoro aprender novas tecnologias e padrões de arquitetura  
+- 🏋️‍♂️ Fora do código... gosto de treinar, jogar uma boa partida de PES, e comer uma bela pizza assistindo anime 😅  
+
+---
+
+⭐ *Feito com dedicação e com muito ❤️ por mim mesmo, [Matheus Reinaldo](https://github.com/reinaldo-matheus)*  
