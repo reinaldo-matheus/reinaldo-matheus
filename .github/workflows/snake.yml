@@ -1,33 +1,32 @@
-name: Generate Snake Animation 🐍
+name: Generate Custom Snake Animation 🐍
 
 on:
   schedule:
-    # Executa automaticamente todos os dias à meia-noite
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" 
   workflow_dispatch:
   push:
     branches:
       - main
 
 permissions:
-  contents: write  # Permite ao GitHub Actions criar/atualizar arquivos
+  contents: write
 
 jobs:
   build:
-    name: Gerar e publicar animação da cobrinha
+    name: Gerar e publicar animação da cobrinha personalizada
     runs-on: ubuntu-latest
 
     steps:
       - name: 🔄 Checkout do repositório
         uses: actions/checkout@v4
 
-      - name: 🐍 Gerar animação (modo claro e escuro)
+      - name: 🐍 Gerar animações (modo claro e escuro personalizados)
         uses: Platane/snk@v3
         with:
           github_user_name: reinaldo-matheus
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=blue-violet
+            dist/github-contribution-grid-snake-dark.svg?palette=tokyo-night
 
       - name: 🚀 Publicar no branch output
         env:
@@ -40,6 +39,7 @@ jobs:
           git reset
           mv dist/* .
           git add .
-          git commit -m "🐍 Atualização automática das animações da cobrinha"
+          git commit -m "🐍 Atualização automática da cobrinha estilizada (Tokyo Night)"
           git push -f https://x-access-token:${GITHUB_TOKEN}@github.com/reinaldo-matheus/reinaldo-matheus.git output
+
 
