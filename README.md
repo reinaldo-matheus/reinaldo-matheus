@@ -57,4 +57,9 @@ Acredito que tecnologia é bem mais do que apenas linhas de código,  trata-se d
 - 🧩 Adoro aprender novas tecnologias e padrões de arquitetura  
 - 🏋️‍♂️ Fora do código... gosto de treinar, jogar uma boa partida de PES, e comer uma bela pizza assistindo anime 😅  
 
+---
 
+### 🐍 Minhas contribuições animadas
+
+![Snake animation](https://raw.githubusercontent.com/reinaldo-matheus/reinaldo-matheus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/reinaldo-matheus/reinaldo-matheus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
