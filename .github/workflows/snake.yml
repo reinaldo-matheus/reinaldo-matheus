@@ -2,6 +2,7 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
+    # Executa automaticamente todos os dias à meia-noite
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
@@ -9,31 +10,36 @@ on:
       - main
 
 permissions:
-  contents: write  
+  contents: write  # Permite ao GitHub Actions criar/atualizar arquivos
 
 jobs:
   build:
-    name: Gerar e publicar a cobrinha
+    name: Gerar e publicar animação da cobrinha
     runs-on: ubuntu-latest
 
     steps:
       - name: 🔄 Checkout do repositório
         uses: actions/checkout@v4
 
-      - name: 🐍 Gerar animação da cobrinha
+      - name: 🐍 Gerar animação (modo claro e escuro)
         uses: Platane/snk@v3
         with:
           github_user_name: reinaldo-matheus
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: 🚀 Publicar arquivo no branch output
+      - name: 🚀 Publicar no branch output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin
           git checkout --orphan output
           git reset
-          mv dist/github-contribution-grid-snake.svg .
-          git add github-contribution-grid-snake.svg
-          git commit -m "🐍 Atualização automática da cobrinha"
-          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/reinaldo-matheus/reinaldo-matheus.git output
+          mv dist/* .
+          git add .
+          git commit -m "🐍 Atualização automática das animações da cobrinha"
+          git push -f https://x-access-token:${GITHUB_TOKEN}@github.com/reinaldo-matheus/reinaldo-matheus.git output
+
