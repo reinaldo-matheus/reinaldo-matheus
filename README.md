@@ -1,7 +1,12 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=500&lines=👋+Olá,+me+chamo+Matheus!;💻+Desenvolvedor+Full+Stack+Jr.;🚀+Apaixonado+por+tecnologia!)](https://github.com/reinaldo-matheus)
-
+  <p align="center">
+    <img 
+      src="https://github.com/user-attachments/assets/b4444a1d-3cc8-416b-bc98-54ef56c41182"
+      width="1584" 
+      height="396" 
+      alt="Banner Matheus" 
+    />
+  </p>
 </div>
 
 
