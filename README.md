@@ -11,12 +11,13 @@
 
 
 
-Sou um Desenvolvedor Full Stack Jr. em constante evolução.  
-Atualmente, foco em aprimorar minhas habilidades em **JavaScript, TypeScript, React, Node.js e Next.js**,  
-buscando criar aplicações escaláveis, de alto desempenho e que façam um diferença positiva na vida de seus respectivos usuários.  
+Sou Desenvolvedor Full Stack Jr.
+Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript, TypeScript, React, Node.js e Next.js**,  
+ com o objetivo de criar aplicações escaláveis, de alto desempenho e que façam um diferença positiva na vida de seus respectivos usuários.  
 
 Acredito que tecnologia é bem mais do que apenas linhas de código,  trata-se de uma forma de **transformar ideias em impacto real**.  
-💡 Gosto de aprender, ensinar e enfrentar novos desafios todos os dias!
+
+💡 Gosto de aprender, ensinar e enfrentar novos desafios todos os dias, afinal... solucionar problemas faz parte do nosso DNA de desenvolvedor, né ?!😅
 
 ---
 
