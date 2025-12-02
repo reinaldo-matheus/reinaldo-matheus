@@ -1,19 +1,16 @@
 <div align="center">
   <p align="center">
     <img 
-      src="https://github.com/user-attachments/assets/b4444a1d-3cc8-416b-bc98-54ef56c41182"
-      width="1584" 
-      height="396" 
-      alt="Banner Matheus" 
-    />
+      <img width="1584" height="396" alt="Banner Matheus" src="https://github.com/user-attachments/assets/466e40bf-df74-4dbf-af19-c664c6993d77" />
   </p>
 </div>
 
 
 
-Sou Desenvolvedor Full Stack Jr.
-Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript, TypeScript, React, Node.js e Next.js**,  
- com o objetivo de criar aplicações escaláveis, de alto desempenho e que façam um diferença positiva na vida de seus respectivos usuários.  
+Desenvolvedor Full Stack Jr. focado em construir soluções performáticas e escaláveis.
+Hoje, meu ecossistema principal gira em torno de C# e .NET, explorando desde APIs robustas até arquiteturas limpas.
+Paralelamente, mantenho JavaScript, TypeScript, React e Node.js no fluxo de estudo e prática contínua, buscando entender como transformar ideias em soluções reais que facilitem a vida dos usuários.
+
 
 Acredito que tecnologia é bem mais do que apenas linhas de código,  trata-se de uma forma de **transformar ideias em impacto real**.  
 
