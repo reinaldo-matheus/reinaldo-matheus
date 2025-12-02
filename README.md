@@ -31,6 +31,8 @@ Acredito que tecnologia é bem mais do que apenas linhas de código,  trata-se d
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="40" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="C#" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt=".Net" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
    <img align="center" alt="JavaScript" height="40" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
